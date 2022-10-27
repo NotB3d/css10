@@ -1,8 +1,12 @@
 body {
     background-color: bisque;
 }
-main{padding-top: 10%;
-padding-left: 35%;}
+
+main {
+    padding-top: 10%;
+    padding-left: 35%;
+}
+
 div {
     border: 1px solid grey;
     margin: 30px;
@@ -16,6 +20,15 @@ div {
     -ms-border-radius: 4px;
     -o-border-radius: 4px;
 }
-.izquierda{text-align:left;}
-.centro{text-align: center;}
-.derecha{text-align: end;}
+
+.izquierda {
+    text-align: left;
+}
+
+.centro {
+    text-align: center;
+}
+
+.derecha {
+    text-align: end;
+}
