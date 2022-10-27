@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+}
+main{padding-top: 10%;
+padding-left: 35%;}
+div {
+    border: 1px solid grey;
+    margin: 30px;
+    width: 300px;
+    height: 30px;
+    line-height: 50%;
+    background-color: rgb(236, 236, 236);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.izquierda{text-align:left;}
+.centro{text-align: center;}
+.derecha{text-align: end;}
